@@ -1,0 +1,17 @@
+*.egg-info
+*.pyc
+*.log
+.DS_Store
+.#*
+dump.rdb
+
+bcc_api/bcc_api/api/bill.py
+bcc_api/bcc_api/api/tasklist.py
+bcc_api/bcc_api/api/cms.py
+bcc_api/bcc_api/api/game.py
+bcc_api/bcc_api/api/notice.py
+bcc_api/bcc_api/api/rpc_type_map.py
+bcc_api/bcc_api/api/user.py
+bcc_api/bcc_api/api/rpc_type_map.h
+bcc_api/bcc_api/api/transmap.go
+bcc_api/bcc_api/pkapi/
